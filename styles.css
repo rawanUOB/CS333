@@ -78,6 +78,11 @@ iframe{
     height: 300px;
 }
 
+.gallery{
+    max-width: 100%;
+    overflow-x: auto;
+}
+
 @media(max-width:2000px){
     h1{
         font-size:45px ;
@@ -120,6 +125,7 @@ nav ul a {
         display:block;
         margin: auto;
     }
+    
 
 }
 
